@@ -17,12 +17,14 @@
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0648-replace-words) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1044-find-common-characters) |
 # Hash Table
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0648-replace-words) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1044-find-common-characters) |
 # Math
 |  |
@@ -41,3 +43,4 @@
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0523-continuous-subarray-sum) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1016-subarray-sums-divisible-by-k) |
