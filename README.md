@@ -4,11 +4,13 @@
 # Two Pointers
 |  |
 | ------- |
+| [0165-compare-version-numbers](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0165-compare-version-numbers) |
 | [0344-reverse-string](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0344-reverse-string) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # String
 |  |
 | ------- |
+| [0165-compare-version-numbers](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0165-compare-version-numbers) |
 | [0344-reverse-string](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0344-reverse-string) |
 | [0648-replace-words](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0648-replace-words) |
 | [1044-find-common-characters](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1044-find-common-characters) |
