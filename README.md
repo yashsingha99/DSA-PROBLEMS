@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0344-reverse-string) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # String
 |  |
 | ------- |
@@ -12,6 +13,7 @@
 | [0648-replace-words](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0648-replace-words) |
 | [1044-find-common-characters](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1044-find-common-characters) |
 | [1119-robot-bounded-in-circle](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1119-robot-bounded-in-circle) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Array
 |  |
 | ------- |
@@ -57,3 +59,7 @@
 | ------- |
 | [1137-height-checker](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1217-relative-sort-array) |
+# Greedy
+|  |
+| ------- |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2572-append-characters-to-string-to-make-subsequence) |
