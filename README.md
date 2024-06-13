@@ -27,6 +27,7 @@
 | [1044-find-common-characters](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1217-relative-sort-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Hash Table
 |  |
 | ------- |
@@ -59,6 +60,7 @@
 | [0075-sort-colors](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0075-sort-colors) |
 | [1137-height-checker](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1217-relative-sort-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Counting Sort
 |  |
 | ------- |
@@ -67,4 +69,5 @@
 # Greedy
 |  |
 | ------- |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2572-append-characters-to-string-to-make-subsequence) |
