@@ -22,6 +22,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0075-sort-colors) |
+| [0502-ipo](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0648-replace-words) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -62,6 +63,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0075-sort-colors) |
+| [0502-ipo](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0502-ipo) |
 | [1137-height-checker](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1217-relative-sort-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -73,5 +75,10 @@
 # Greedy
 |  |
 | ------- |
+| [0502-ipo](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0502-ipo) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [0502-ipo](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0502-ipo) |
