@@ -7,6 +7,7 @@
 | [0075-sort-colors](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0075-sort-colors) |
 | [0165-compare-version-numbers](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0165-compare-version-numbers) |
 | [0344-reverse-string](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0344-reverse-string) |
+| [0633-sum-of-square-numbers](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0633-sum-of-square-numbers) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # String
 |  |
@@ -44,6 +45,7 @@
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0523-continuous-subarray-sum) |
+| [0633-sum-of-square-numbers](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0633-sum-of-square-numbers) |
 | [1119-robot-bounded-in-circle](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1119-robot-bounded-in-circle) |
 # Simulation
 |  |
@@ -82,3 +84,7 @@
 |  |
 | ------- |
 | [0502-ipo](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0502-ipo) |
+# Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0633-sum-of-square-numbers) |
