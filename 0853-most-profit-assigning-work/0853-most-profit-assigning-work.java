@@ -1,21 +1,25 @@
 class Solution {
     public int maxProfitAssignment(int[] diff, int[] pro, int[] wor) {
-        int n = diff.length, m = wor.length;
-         int arr[][] = new int[n][2];
-         for(int i = 0; i < n; i++){
-            arr[i][0] = diff[i];
-            arr[i][1] = pro[i];
+        int maxDiff = 0, n = diff.length;
+        for(int i : diff)
+          maxDiff = Math.max(maxDiff, i);
+
+        int bestProfit[] = new int[maxDiff + 1];
+        for(int i = 0; i < n; i++)
+            bestProfit[diff[i]] = Math.max(bestProfit[diff[i]], pro[i]);
+
+        int maxProfit = 0;
+        for(int i = 0; i <= maxDiff; i++){
+            if(maxProfit < bestProfit[i]) 
+               maxProfit = bestProfit[i];
+            bestProfit[i] = maxProfit;
         }
-        Arrays.sort(arr, (a, b) -> Integer.compare(b[1], a[1]));
-        // for(int i = 0; i < n; i++)
-        // System.out.print(Arrays.toString(arr[i]));
         int res = 0;
-        for(int i = 0; i < m; i++){
-           for(int j = 0; j < n; j++){
-              if(wor[i] >= arr[j][0]){
-                 res += arr[j][1]; break;
-              }
-           }
+        for(int w : wor){
+            if(w > maxDiff)
+              res += bestProfit[maxDiff];
+            else 
+              res += bestProfit[w];
         }
         return res;
     }
