@@ -20,6 +20,7 @@
 | [1119-robot-bounded-in-circle](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1119-robot-bounded-in-circle) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+| [3297-minimum-time-to-revert-word-to-initial-state-i](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3297-minimum-time-to-revert-word-to-initial-state-i) |
 | [3356-shortest-uncommon-substring-in-an-array](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3356-shortest-uncommon-substring-in-an-array) |
 # Array
 |  |
@@ -107,3 +108,15 @@
 |  |
 | ------- |
 | [0477-total-hamming-distance](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0477-total-hamming-distance) |
+# Rolling Hash
+|  |
+| ------- |
+| [3297-minimum-time-to-revert-word-to-initial-state-i](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3297-minimum-time-to-revert-word-to-initial-state-i) |
+# String Matching
+|  |
+| ------- |
+| [3297-minimum-time-to-revert-word-to-initial-state-i](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3297-minimum-time-to-revert-word-to-initial-state-i) |
+# Hash Function
+|  |
+| ------- |
+| [3297-minimum-time-to-revert-word-to-initial-state-i](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3297-minimum-time-to-revert-word-to-initial-state-i) |
