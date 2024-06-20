@@ -35,6 +35,7 @@
 | [1137-height-checker](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1217-relative-sort-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1675-magnetic-force-between-two-balls](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1675-magnetic-force-between-two-balls) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [3356-shortest-uncommon-substring-in-an-array](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3356-shortest-uncommon-substring-in-an-array) |
@@ -77,6 +78,7 @@
 | [0853-most-profit-assigning-work](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0853-most-profit-assigning-work) |
 | [1137-height-checker](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1217-relative-sort-array) |
+| [1675-magnetic-force-between-two-balls](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Counting Sort
 |  |
@@ -100,6 +102,7 @@
 | [0633-sum-of-square-numbers](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0853-most-profit-assigning-work) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1675-magnetic-force-between-two-balls](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1675-magnetic-force-between-two-balls) |
 # Bit Manipulation
 |  |
 | ------- |
