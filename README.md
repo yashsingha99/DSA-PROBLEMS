@@ -42,6 +42,7 @@
 | [1675-magnetic-force-between-two-balls](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1675-magnetic-force-between-two-balls) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3356-shortest-uncommon-substring-in-an-array](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3356-shortest-uncommon-substring-in-an-array) |
 # Hash Table
 |  |
@@ -86,6 +87,7 @@
 | [1217-relative-sort-array](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1217-relative-sort-array) |
 | [1675-magnetic-force-between-two-balls](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 # Counting Sort
 |  |
 | ------- |
@@ -97,6 +99,7 @@
 | [0502-ipo](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0502-ipo) |
 | [0853-most-profit-assigning-work](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0853-most-profit-assigning-work) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Heap (Priority Queue)
 |  |
