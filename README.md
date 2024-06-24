@@ -25,6 +25,7 @@
 # Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0004-median-of-two-sorted-arrays) |
 | [0075-sort-colors](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0075-sort-colors) |
 | [0477-total-hamming-distance](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0477-total-hamming-distance) |
 | [0502-ipo](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0502-ipo) |
@@ -109,6 +110,7 @@
 # Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0004-median-of-two-sorted-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0853-most-profit-assigning-work) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -147,3 +149,7 @@
 |  |
 | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+# Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0004-median-of-two-sorted-arrays) |
