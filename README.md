@@ -42,6 +42,7 @@
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1675-magnetic-force-between-two-balls) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3356-shortest-uncommon-substring-in-an-array](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3356-shortest-uncommon-substring-in-an-array) |
@@ -87,6 +88,7 @@
 | [1137-height-checker](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1217-relative-sort-array) |
 | [1675-magnetic-force-between-two-balls](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1675-magnetic-force-between-two-balls) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 # Counting Sort
