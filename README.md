@@ -101,6 +101,7 @@
 | ------- |
 | [0502-ipo](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0502-ipo) |
 | [0853-most-profit-assigning-work](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0853-most-profit-assigning-work) |
+| [1285-balance-a-binary-search-tree](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1285-balance-a-binary-search-tree) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -155,19 +156,24 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0004-median-of-two-sorted-arrays) |
+| [1285-balance-a-binary-search-tree](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1285-balance-a-binary-search-tree) |
 # Tree
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1285-balance-a-binary-search-tree) |
 # Depth-First Search
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1285-balance-a-binary-search-tree) |
 # Binary Search Tree
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1285-balance-a-binary-search-tree) |
 # Binary Tree
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1285-balance-a-binary-search-tree) |
