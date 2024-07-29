@@ -194,6 +194,7 @@
 |  |
 | ------- |
 | [1293-three-consecutive-odds](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1293-three-consecutive-odds) |
+| [1511-count-number-of-teams](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1511-count-number-of-teams) |
 ## Linked List
 |  |
 | ------- |
@@ -218,4 +219,12 @@
 |  |
 | ------- |
 | [0677-map-sum-pairs](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0677-map-sum-pairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1511-count-number-of-teams) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1511-count-number-of-teams) |
 <!---LeetCode Topics End-->
