@@ -11,7 +11,6 @@ class Solution {
                 map.get(pick[i][0]).add(pick[i][1]);
             }
         }
-        System.out.print(map);
         for(int i : map.keySet()){
             int arr[] = new int[11];
             for(int l : map.get(i)){
