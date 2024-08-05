@@ -195,6 +195,7 @@
 | ------- |
 | [1293-three-consecutive-odds](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1293-three-consecutive-odds) |
 | [1511-count-number-of-teams](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1511-count-number-of-teams) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2727-number-of-senior-citizens) |
 ## Linked List
 |  |
@@ -208,10 +209,12 @@
 |  |
 | ------- |
 | [0677-map-sum-pairs](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0677-map-sum-pairs) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2163-kth-distinct-string-in-an-array) |
 ## String
 |  |
 | ------- |
 | [0677-map-sum-pairs](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0677-map-sum-pairs) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2727-number-of-senior-citizens) |
 ## Design
 |  |
@@ -229,4 +232,8 @@
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1511-count-number-of-teams) |
+## Counting
+|  |
+| ------- |
+| [2163-kth-distinct-string-in-an-array](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2163-kth-distinct-string-in-an-array) |
 <!---LeetCode Topics End-->
