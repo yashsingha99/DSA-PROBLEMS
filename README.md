@@ -193,6 +193,7 @@
 ## Array
 |  |
 | ------- |
+| [0921-spiral-matrix-iii](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0921-spiral-matrix-iii) |
 | [1293-three-consecutive-odds](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1293-three-consecutive-odds) |
 | [1511-count-number-of-teams](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1511-count-number-of-teams) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -204,6 +205,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0921-spiral-matrix-iii](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0921-spiral-matrix-iii) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Hash Table
 |  |
@@ -247,4 +249,8 @@
 |  |
 | ------- |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+## Matrix
+|  |
+| ------- |
+| [0921-spiral-matrix-iii](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0921-spiral-matrix-iii) |
 <!---LeetCode Topics End-->
