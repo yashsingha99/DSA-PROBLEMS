@@ -220,6 +220,7 @@
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0038-count-and-say) |
 | [0443-string-compression](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0443-string-compression) |
 | [0677-map-sum-pairs](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0677-map-sum-pairs) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2163-kth-distinct-string-in-an-array) |
