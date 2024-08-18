@@ -310,4 +310,8 @@
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0040-combination-sum-ii) |
+## Math
+|  |
+| ------- |
+| [0263-ugly-number](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0263-ugly-number) |
 <!---LeetCode Topics End-->
