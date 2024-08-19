@@ -241,6 +241,7 @@
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0264-ugly-number-ii) |
+| [0650-2-keys-keyboard](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0650-2-keys-keyboard) |
 | [1511-count-number-of-teams](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1511-count-number-of-teams) |
 ## Binary Indexed Tree
 |  |
@@ -318,4 +319,5 @@
 | ------- |
 | [0263-ugly-number](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0264-ugly-number-ii) |
+| [0650-2-keys-keyboard](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0650-2-keys-keyboard) |
 <!---LeetCode Topics End-->
