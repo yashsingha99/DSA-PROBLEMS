@@ -333,4 +333,8 @@
 |  |
 | ------- |
 | [1666-make-the-string-great](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1666-make-the-string-great) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0476-number-complement](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->
