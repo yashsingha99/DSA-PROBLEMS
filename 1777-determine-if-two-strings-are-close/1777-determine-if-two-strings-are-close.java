@@ -7,7 +7,6 @@ class Solution {
         for(int i = 0; i < n1; i++){
             char ch1 = word1.charAt(i);
             char ch2 = word2.charAt(i);
-            if(word2.indexOf(ch1) == -1 || word1.indexOf(ch2) == -1) return false;
             arr1[ch1 - 'a']++;
             arr2[ch2 - 'a']++;
         }
@@ -16,7 +15,6 @@ class Solution {
                 return false;
             }
         }
-        
         Arrays.sort(arr1);
         Arrays.sort(arr2);
          for (int i = 0; i < 26; i++)
