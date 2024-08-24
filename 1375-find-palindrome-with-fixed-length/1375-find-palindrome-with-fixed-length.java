@@ -6,11 +6,11 @@ class Solution {
         StringBuilder sb = new StringBuilder(Integer.toString(pal));
         if ((k & 1) > 0)
             pal /= 10;
-
         while (pal > 0) {
             sb.append(pal % 10);
             pal /= 10;
         }
+
         return sb.toString();
     }
 
