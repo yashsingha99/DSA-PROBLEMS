@@ -199,6 +199,7 @@
 | [0981-delete-columns-to-make-sorted](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0981-delete-columns-to-make-sorted) |
 | [0999-regions-cut-by-slashes](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0999-regions-cut-by-slashes) |
 | [1293-three-consecutive-odds](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1293-three-consecutive-odds) |
+| [1375-find-palindrome-with-fixed-length](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1375-find-palindrome-with-fixed-length) |
 | [1511-count-number-of-teams](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1511-count-number-of-teams) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -341,6 +342,7 @@
 | [0592-fraction-addition-and-subtraction](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0650-2-keys-keyboard) |
 | [0935-orderly-queue](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0935-orderly-queue) |
+| [1375-find-palindrome-with-fixed-length](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1375-find-palindrome-with-fixed-length) |
 ## Stack
 |  |
 | ------- |
