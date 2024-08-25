@@ -194,6 +194,7 @@
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0040-combination-sum-ii) |
+| [0472-concatenated-words](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0472-concatenated-words) |
 | [0890-lemonade-change](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0921-spiral-matrix-iii) |
 | [0981-delete-columns-to-make-sorted](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0981-delete-columns-to-make-sorted) |
@@ -232,6 +233,7 @@
 | [0038-count-and-say](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0038-count-and-say) |
 | [0093-restore-ip-addresses](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0093-restore-ip-addresses) |
 | [0443-string-compression](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0443-string-compression) |
+| [0472-concatenated-words](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0472-concatenated-words) |
 | [0520-detect-capital](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0520-detect-capital) |
 | [0592-fraction-addition-and-subtraction](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0592-fraction-addition-and-subtraction) |
 | [0677-map-sum-pairs](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0677-map-sum-pairs) |
@@ -251,11 +253,13 @@
 ## Trie
 |  |
 | ------- |
+| [0472-concatenated-words](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0472-concatenated-words) |
 | [0677-map-sum-pairs](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0677-map-sum-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0264-ugly-number-ii) |
+| [0472-concatenated-words](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0472-concatenated-words) |
 | [0650-2-keys-keyboard](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0650-2-keys-keyboard) |
 | [1511-count-number-of-teams](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1511-count-number-of-teams) |
 ## Binary Indexed Tree
@@ -293,6 +297,7 @@
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0145-binary-tree-postorder-traversal) |
+| [0472-concatenated-words](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0472-concatenated-words) |
 | [0999-regions-cut-by-slashes](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0999-regions-cut-by-slashes) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Breadth-First Search
