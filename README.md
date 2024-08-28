@@ -194,6 +194,7 @@
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0040-combination-sum-ii) |
+| [0200-number-of-islands](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0200-number-of-islands) |
 | [0472-concatenated-words](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0472-concatenated-words) |
 | [0890-lemonade-change](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0921-spiral-matrix-iii) |
@@ -290,6 +291,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0200-number-of-islands) |
 | [0921-spiral-matrix-iii](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0999-regions-cut-by-slashes) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -303,6 +305,7 @@
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0200-number-of-islands) |
 | [0472-concatenated-words](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0472-concatenated-words) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0999-regions-cut-by-slashes](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0999-regions-cut-by-slashes) |
@@ -311,12 +314,14 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0200-number-of-islands) |
 | [0999-regions-cut-by-slashes](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0999-regions-cut-by-slashes) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2035-count-sub-islands) |
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0200-number-of-islands) |
 | [0999-regions-cut-by-slashes](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0999-regions-cut-by-slashes) |
 | [2035-count-sub-islands](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2035-count-sub-islands) |
 ## Strongly Connected Component
