@@ -236,6 +236,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0038-count-and-say) |
 | [0093-restore-ip-addresses](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0093-restore-ip-addresses) |
+| [0257-binary-tree-paths](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0257-binary-tree-paths) |
 | [0443-string-compression](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0459-repeated-substring-pattern) |
 | [0472-concatenated-words](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0472-concatenated-words) |
@@ -307,6 +308,7 @@
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0200-number-of-islands) |
+| [0257-binary-tree-paths](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0257-binary-tree-paths) |
 | [0472-concatenated-words](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0472-concatenated-words) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0999-regions-cut-by-slashes](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0999-regions-cut-by-slashes) |
@@ -333,6 +335,7 @@
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0257-binary-tree-paths) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
@@ -348,6 +351,7 @@
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0257-binary-tree-paths) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
@@ -358,6 +362,7 @@
 | ------- |
 | [0040-combination-sum-ii](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0040-combination-sum-ii) |
 | [0093-restore-ip-addresses](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0093-restore-ip-addresses) |
+| [0257-binary-tree-paths](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0257-binary-tree-paths) |
 ## Math
 |  |
 | ------- |
