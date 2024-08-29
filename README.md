@@ -237,6 +237,7 @@
 | [0038-count-and-say](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0038-count-and-say) |
 | [0093-restore-ip-addresses](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0093-restore-ip-addresses) |
 | [0443-string-compression](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0443-string-compression) |
+| [0459-repeated-substring-pattern](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0459-repeated-substring-pattern) |
 | [0472-concatenated-words](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0472-concatenated-words) |
 | [0520-detect-capital](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0520-detect-capital) |
 | [0592-fraction-addition-and-subtraction](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0592-fraction-addition-and-subtraction) |
@@ -381,4 +382,5 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
