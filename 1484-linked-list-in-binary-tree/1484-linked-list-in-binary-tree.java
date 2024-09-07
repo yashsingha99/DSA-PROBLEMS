@@ -11,6 +11,6 @@ class Solution {
     public boolean isSubPath(ListNode head, TreeNode root) {
         if(root == null) return false;
         if(head.val == root.val && check(head, root)) return true;
-        return isSubPath(head, root.left) || isSubPath(head, root.right);
+        return isSubPath(head, root.left) || isSubPath(head, root.right); // to check full linked list nodes
     }
 }
