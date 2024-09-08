@@ -215,6 +215,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0725-split-linked-list-in-parts](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1484-linked-list-in-binary-tree) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
