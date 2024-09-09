@@ -195,6 +195,7 @@
 | ------- |
 | [0040-combination-sum-ii](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0040-combination-sum-ii) |
 | [0075-sort-colors](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0088-merge-sorted-array) |
 | [0200-number-of-islands](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0200-number-of-islands) |
 | [0472-concatenated-words](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0472-concatenated-words) |
 | [0890-lemonade-change](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0890-lemonade-change) |
@@ -302,6 +303,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0088-merge-sorted-array) |
 | [0935-orderly-queue](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0935-orderly-queue) |
 | [1777-determine-if-two-strings-are-close](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1777-determine-if-two-strings-are-close) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -319,6 +321,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0088-merge-sorted-array) |
 | [0392-is-subsequence](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0443-string-compression) |
 ## Depth-First Search
