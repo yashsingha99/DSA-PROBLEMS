@@ -208,6 +208,7 @@
 | [1511-count-number-of-teams](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1511-count-number-of-teams) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -243,6 +244,7 @@
 | [0906-walking-robot-simulation](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0906-walking-robot-simulation) |
 | [0999-regions-cut-by-slashes](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0999-regions-cut-by-slashes) |
 | [1777-determine-if-two-strings-are-close](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1777-determine-if-two-strings-are-close) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## String
@@ -267,6 +269,7 @@
 | [1666-make-the-string-great](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1666-make-the-string-great) |
 | [1777-determine-if-two-strings-are-close](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1777-determine-if-two-strings-are-close) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2727-number-of-senior-citizens) |
@@ -297,6 +300,7 @@
 |  |
 | ------- |
 | [1777-determine-if-two-strings-are-close](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1777-determine-if-two-strings-are-close) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
@@ -421,6 +425,7 @@
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0476-number-complement) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## String Matching
 |  |
