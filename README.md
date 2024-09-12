@@ -264,6 +264,7 @@
 | [0592-fraction-addition-and-subtraction](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0592-fraction-addition-and-subtraction) |
 | [0677-map-sum-pairs](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0677-map-sum-pairs) |
 | [0889-buddy-strings](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0889-buddy-strings) |
+| [0916-decoded-string-at-index](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0916-decoded-string-at-index) |
 | [0935-orderly-queue](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0935-orderly-queue) |
 | [0981-delete-columns-to-make-sorted](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0981-delete-columns-to-make-sorted) |
 | [1666-make-the-string-great](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1666-make-the-string-great) |
@@ -420,6 +421,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0145-binary-tree-postorder-traversal) |
 | [0316-remove-duplicate-letters](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0316-remove-duplicate-letters) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0916-decoded-string-at-index](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0916-decoded-string-at-index) |
 | [1666-make-the-string-great](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1666-make-the-string-great) |
 ## Bit Manipulation
 |  |
