@@ -229,6 +229,7 @@
 |  |
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0592-fraction-addition-and-subtraction) |
+| [0874-backspace-string-compare](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0874-backspace-string-compare) |
 | [0906-walking-robot-simulation](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0921-spiral-matrix-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -268,6 +269,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0592-fraction-addition-and-subtraction](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0592-fraction-addition-and-subtraction) |
 | [0677-map-sum-pairs](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0677-map-sum-pairs) |
+| [0874-backspace-string-compare](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0874-backspace-string-compare) |
 | [0889-buddy-strings](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0889-buddy-strings) |
 | [0916-decoded-string-at-index](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0916-decoded-string-at-index) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -345,6 +347,7 @@
 | [0392-is-subsequence](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0874-backspace-string-compare](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0874-backspace-string-compare) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -431,6 +434,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0145-binary-tree-postorder-traversal) |
 | [0316-remove-duplicate-letters](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0316-remove-duplicate-letters) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0874-backspace-string-compare](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0874-backspace-string-compare) |
 | [0916-decoded-string-at-index](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0916-decoded-string-at-index) |
 | [1666-make-the-string-great](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1666-make-the-string-great) |
 ## Bit Manipulation
