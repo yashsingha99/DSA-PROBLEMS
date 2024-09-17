@@ -279,6 +279,7 @@
 | [1777-determine-if-two-strings-are-close](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1777-determine-if-two-strings-are-close) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1885-count-number-of-homogenous-substrings](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1885-count-number-of-homogenous-substrings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2727-number-of-senior-citizens) |
@@ -427,6 +428,7 @@
 | [0650-2-keys-keyboard](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0650-2-keys-keyboard) |
 | [0935-orderly-queue](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0935-orderly-queue) |
 | [1375-find-palindrome-with-fixed-length](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1375-find-palindrome-with-fixed-length) |
+| [1885-count-number-of-homogenous-substrings](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1885-count-number-of-homogenous-substrings) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Stack
 |  |
