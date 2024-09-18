@@ -196,6 +196,7 @@
 | [0040-combination-sum-ii](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0040-combination-sum-ii) |
 | [0075-sort-colors](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0200-number-of-islands](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0200-number-of-islands) |
 | [0472-concatenated-words](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0472-concatenated-words) |
 | [0539-minimum-time-difference](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0539-minimum-time-difference) |
@@ -383,6 +384,7 @@
 ## Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0257-binary-tree-paths) |
@@ -392,6 +394,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Heap (Priority Queue)
@@ -402,6 +405,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0257-binary-tree-paths) |
@@ -464,4 +468,8 @@
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0316-remove-duplicate-letters) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
