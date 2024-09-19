@@ -262,6 +262,7 @@
 | [0038-count-and-say](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0038-count-and-say) |
 | [0093-restore-ip-addresses](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0093-restore-ip-addresses) |
 | [0179-largest-number](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0179-largest-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0241-different-ways-to-add-parentheses) |
 | [0257-binary-tree-paths](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0257-binary-tree-paths) |
 | [0316-remove-duplicate-letters](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0316-remove-duplicate-letters) |
 | [0392-is-subsequence](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0392-is-subsequence) |
@@ -301,6 +302,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0264-ugly-number-ii) |
 | [0392-is-subsequence](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0392-is-subsequence) |
 | [0472-concatenated-words](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0472-concatenated-words) |
@@ -431,6 +433,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0012-integer-to-roman) |
+| [0241-different-ways-to-add-parentheses](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0241-different-ways-to-add-parentheses) |
 | [0263-ugly-number](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0264-ugly-number-ii) |
 | [0539-minimum-time-difference](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0539-minimum-time-difference) |
@@ -478,4 +481,12 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Recursion
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0241-different-ways-to-add-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
