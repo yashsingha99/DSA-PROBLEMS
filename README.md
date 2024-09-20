@@ -262,6 +262,7 @@
 | [0038-count-and-say](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0038-count-and-say) |
 | [0093-restore-ip-addresses](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0093-restore-ip-addresses) |
 | [0179-largest-number](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0179-largest-number) |
+| [0214-shortest-palindrome](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0241-different-ways-to-add-parentheses) |
 | [0257-binary-tree-paths](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0257-binary-tree-paths) |
 | [0316-remove-duplicate-letters](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0316-remove-duplicate-letters) |
@@ -463,6 +464,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0459-repeated-substring-pattern) |
 ## Prefix Sum
 |  |
@@ -489,4 +491,12 @@
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0241-different-ways-to-add-parentheses) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
