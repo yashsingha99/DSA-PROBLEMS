@@ -289,6 +289,7 @@
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2727-number-of-senior-citizens) |
+| [2887-sort-vowels-in-a-string](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2887-sort-vowels-in-a-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Design
 |  |
@@ -338,6 +339,7 @@
 | [0539-minimum-time-difference](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0539-minimum-time-difference) |
 | [0935-orderly-queue](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0935-orderly-queue) |
 | [1777-determine-if-two-strings-are-close](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1777-determine-if-two-strings-are-close) |
+| [2887-sort-vowels-in-a-string](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2887-sort-vowels-in-a-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Matrix
 |  |
