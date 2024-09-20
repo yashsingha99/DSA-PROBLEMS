@@ -252,6 +252,7 @@
 | [0999-regions-cut-by-slashes](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0999-regions-cut-by-slashes) |
 | [1777-determine-if-two-strings-are-close](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## String
@@ -286,6 +287,7 @@
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1885-count-number-of-homogenous-substrings) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2727-number-of-senior-citizens) |
@@ -461,6 +463,7 @@
 | [0476-number-complement](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## String Matching
 |  |
@@ -473,6 +476,7 @@
 | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1435-xor-queries-of-a-subarray) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Number Theory
 |  |
 | ------- |
