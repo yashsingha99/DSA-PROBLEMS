@@ -302,6 +302,7 @@
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0386-lexicographical-numbers) |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [0472-concatenated-words](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0472-concatenated-words) |
 | [0677-map-sum-pairs](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0677-map-sum-pairs) |
 ## Dynamic Programming
