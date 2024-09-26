@@ -202,6 +202,7 @@
 | [0200-number-of-islands](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0200-number-of-islands) |
 | [0472-concatenated-words](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0472-concatenated-words) |
 | [0539-minimum-time-difference](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0539-minimum-time-difference) |
+| [0729-my-calendar-i](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0729-my-calendar-i) |
 | [0890-lemonade-change](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0921-spiral-matrix-iii) |
@@ -308,6 +309,7 @@
 |  |
 | ------- |
 | [0677-map-sum-pairs](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0677-map-sum-pairs) |
+| [0729-my-calendar-i](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0729-my-calendar-i) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Trie
 |  |
@@ -428,6 +430,7 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0729-my-calendar-i](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0729-my-calendar-i) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Heap (Priority Queue)
@@ -527,4 +530,12 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0214-shortest-palindrome) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
