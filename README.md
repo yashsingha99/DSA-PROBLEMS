@@ -255,6 +255,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0012-integer-to-roman) |
 | [0264-ugly-number-ii](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0264-ugly-number-ii) |
+| [0567-permutation-in-string](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0567-permutation-in-string) |
 | [0677-map-sum-pairs](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0677-map-sum-pairs) |
 | [0889-buddy-strings](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0889-buddy-strings) |
 | [0906-walking-robot-simulation](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0906-walking-robot-simulation) |
@@ -289,6 +290,7 @@
 | [0520-detect-capital](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0520-detect-capital) |
 | [0539-minimum-time-difference](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0539-minimum-time-difference) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0592-fraction-addition-and-subtraction) |
 | [0677-map-sum-pairs](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0677-map-sum-pairs) |
 | [0874-backspace-string-compare](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0874-backspace-string-compare) |
@@ -392,6 +394,7 @@
 | [0392-is-subsequence](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0567-permutation-in-string) |
 | [0874-backspace-string-compare](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0874-backspace-string-compare) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Depth-First Search
@@ -548,4 +551,8 @@
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0729-my-calendar-i) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
