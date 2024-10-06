@@ -217,6 +217,7 @@
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1923-sentence-similarity-iii](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1923-sentence-similarity-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -304,6 +305,7 @@
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1885-count-number-of-homogenous-substrings) |
+| [1923-sentence-similarity-iii](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1923-sentence-similarity-iii) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -396,6 +398,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0567-permutation-in-string) |
 | [0874-backspace-string-compare](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0874-backspace-string-compare) |
+| [1923-sentence-similarity-iii](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1923-sentence-similarity-iii) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Depth-First Search
 |  |
