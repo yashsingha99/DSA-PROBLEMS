@@ -250,6 +250,7 @@
 | [2132-convert-1d-array-into-2d-array](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2411-spiral-matrix-iv](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2411-spiral-matrix-iv) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
 |  |
@@ -312,6 +313,7 @@
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2727-number-of-senior-citizens](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2755-extra-characters-in-a-string) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2887-sort-vowels-in-a-string](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2887-sort-vowels-in-a-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -498,6 +500,7 @@
 | [0874-backspace-string-compare](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0874-backspace-string-compare) |
 | [0916-decoded-string-at-index](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0916-decoded-string-at-index) |
 | [1666-make-the-string-great](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1666-make-the-string-great) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Bit Manipulation
 |  |
 | ------- |
