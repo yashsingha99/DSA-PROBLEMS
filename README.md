@@ -193,6 +193,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0011-container-with-most-water) |
 | [0040-combination-sum-ii](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0040-combination-sum-ii) |
 | [0075-sort-colors](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0088-merge-sorted-array) |
@@ -370,6 +371,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0316-remove-duplicate-letters) |
@@ -404,6 +406,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0088-merge-sorted-array) |
