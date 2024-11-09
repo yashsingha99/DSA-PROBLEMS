@@ -538,6 +538,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [3394-minimum-array-end](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3394-minimum-array-end) |
 ## String Matching
 |  |
 | ------- |
