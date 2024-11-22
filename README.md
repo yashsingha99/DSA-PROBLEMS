@@ -212,6 +212,7 @@
 | [0941-sort-array-by-parity](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0941-sort-array-by-parity) |
 | [0981-delete-columns-to-make-sorted](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0981-delete-columns-to-make-sorted) |
 | [0999-regions-cut-by-slashes](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0999-regions-cut-by-slashes) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1293-three-consecutive-odds) |
 | [1375-find-palindrome-with-fixed-length](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1375-find-palindrome-with-fixed-length) |
@@ -274,6 +275,7 @@
 | [0906-walking-robot-simulation](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0999-regions-cut-by-slashes](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0999-regions-cut-by-slashes) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1777-determine-if-two-strings-are-close](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1777-determine-if-two-strings-are-close) |
@@ -411,6 +413,7 @@
 | [0200-number-of-islands](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0200-number-of-islands) |
 | [0921-spiral-matrix-iii](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0999-regions-cut-by-slashes) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2132-convert-1d-array-into-2d-array) |
