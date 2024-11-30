@@ -234,6 +234,7 @@
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2716-prime-subtraction-operation](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2716-prime-subtraction-operation) |
 | [2727-number-of-senior-citizens](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2755-extra-characters-in-a-string) |
@@ -422,6 +423,7 @@
 | [2132-convert-1d-array-into-2d-array](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2411-spiral-matrix-iv) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -462,6 +464,7 @@
 | [1484-linked-list-in-binary-tree](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2035-count-sub-islands) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Union Find
 |  |
 | ------- |
@@ -498,6 +501,7 @@
 | [0264-ugly-number-ii](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0264-ugly-number-ii) |
 | [0295-find-median-from-data-stream](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0789-kth-largest-element-in-a-stream) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Binary Tree
 |  |
@@ -618,4 +622,12 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0215-kth-largest-element-in-an-array) |
+## Graph
+|  |
+| ------- |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 <!---LeetCode Topics End-->
