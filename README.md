@@ -228,6 +228,7 @@
 | [2089-maximum-matrix-sum](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2089-maximum-matrix-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2232-adding-spaces-to-a-string](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2360-substring-with-largest-variance](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2360-substring-with-largest-variance) |
 | [2411-spiral-matrix-iv](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2411-spiral-matrix-iv) |
@@ -259,6 +260,7 @@
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2232-adding-spaces-to-a-string](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2232-adding-spaces-to-a-string) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2411-spiral-matrix-iv) |
@@ -328,6 +330,7 @@
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2232-adding-spaces-to-a-string](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2232-adding-spaces-to-a-string) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2727-number-of-senior-citizens](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2755-extra-characters-in-a-string) |
@@ -440,6 +443,7 @@
 | [0941-sort-array-by-parity](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0941-sort-array-by-parity) |
 | [1923-sentence-similarity-iii](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2232-adding-spaces-to-a-string](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2232-adding-spaces-to-a-string) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Depth-First Search
