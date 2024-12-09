@@ -243,6 +243,7 @@
 | [2727-number-of-senior-citizens](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3427-special-array-ii](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3427-special-array-ii) |
 | [3533-snake-in-matrix](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3533-snake-in-matrix) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Linked List
@@ -509,6 +510,7 @@
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2716-prime-subtraction-operation) |
+| [3427-special-array-ii](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3427-special-array-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -588,6 +590,7 @@
 | [1435-xor-queries-of-a-subarray](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1435-xor-queries-of-a-subarray) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [3427-special-array-ii](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3427-special-array-ii) |
 ## Number Theory
 |  |
 | ------- |
