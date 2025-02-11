@@ -266,6 +266,7 @@
 | [0906-walking-robot-simulation](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0921-spiral-matrix-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2232-adding-spaces-to-a-string) |
@@ -336,6 +337,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1923-sentence-similarity-iii](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1923-sentence-similarity-iii) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -579,6 +581,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1666-make-the-string-great](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1666-make-the-string-great) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3447-clear-digits) |
