@@ -359,6 +359,7 @@
 | [0677-map-sum-pairs](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0677-map-sum-pairs) |
 | [0729-my-calendar-i](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0729-my-calendar-i) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0937-online-stock-span](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0937-online-stock-span) |
 ## Trie
 |  |
 | ------- |
@@ -547,6 +548,7 @@
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0937-online-stock-span](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0937-online-stock-span) |
 ## Backtracking
 |  |
 | ------- |
@@ -578,6 +580,7 @@
 | [0776-n-ary-tree-postorder-traversal](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0874-backspace-string-compare](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0874-backspace-string-compare) |
 | [0916-decoded-string-at-index](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0916-decoded-string-at-index) |
+| [0937-online-stock-span](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0937-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1666-make-the-string-great](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1666-make-the-string-great) |
@@ -617,6 +620,7 @@
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0316-remove-duplicate-letters) |
+| [0937-online-stock-span](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0937-online-stock-span) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Divide and Conquer
 |  |
