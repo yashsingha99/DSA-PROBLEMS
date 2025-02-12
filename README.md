@@ -238,6 +238,7 @@
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2360-substring-with-largest-variance](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2360-substring-with-largest-variance) |
 | [2411-spiral-matrix-iv](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2411-spiral-matrix-iv) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -296,6 +297,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2755-extra-characters-in-a-string](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2755-extra-characters-in-a-string) |
@@ -427,6 +429,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1256-rank-transform-of-an-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1777-determine-if-two-strings-are-close) |
 | [2164-two-best-non-overlapping-events](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2164-two-best-non-overlapping-events) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -532,6 +535,7 @@
 | [0295-find-median-from-data-stream](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2164-two-best-non-overlapping-events](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2164-two-best-non-overlapping-events) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Binary Tree
