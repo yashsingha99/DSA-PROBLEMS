@@ -201,6 +201,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0472-concatenated-words](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0472-concatenated-words) |
@@ -477,6 +478,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0189-rotate-array) |
 | [0295-find-median-from-data-stream](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0443-string-compression) |
@@ -592,6 +594,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0012-integer-to-roman) |
+| [0189-rotate-array](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0189-rotate-array) |
 | [0241-different-ways-to-add-parentheses](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0241-different-ways-to-add-parentheses) |
 | [0263-ugly-number](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0264-ugly-number-ii) |
