@@ -608,6 +608,7 @@
 | [1375-find-palindrome-with-fixed-length](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1375-find-palindrome-with-fixed-length) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1885-count-number-of-homogenous-substrings) |
+| [2649-count-total-number-of-colored-cells](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2649-count-total-number-of-colored-cells) |
 | [2716-prime-subtraction-operation](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
