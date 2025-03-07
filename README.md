@@ -612,6 +612,7 @@
 | [1375-find-palindrome-with-fixed-length](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1375-find-palindrome-with-fixed-length) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1885-count-number-of-homogenous-substrings) |
+| [2610-closest-prime-numbers-in-range](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2649-count-total-number-of-colored-cells) |
 | [2716-prime-subtraction-operation](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -661,6 +662,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [2610-closest-prime-numbers-in-range](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Monotonic Stack
