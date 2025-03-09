@@ -260,6 +260,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3227-find-missing-and-repeated-values) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3427-special-array-ii](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3427-special-array-ii) |
+| [3483-alternating-groups-ii](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3483-alternating-groups-ii) |
 | [3533-snake-in-matrix](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3533-snake-in-matrix) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Linked List
@@ -708,6 +709,7 @@
 | [0567-permutation-in-string](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0567-permutation-in-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3483-alternating-groups-ii](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3483-alternating-groups-ii) |
 ## Queue
 |  |
 | ------- |
