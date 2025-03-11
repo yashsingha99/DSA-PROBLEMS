@@ -308,6 +308,7 @@
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1256-rank-transform-of-an-array) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1777-determine-if-two-strings-are-close](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -353,6 +354,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0981-delete-columns-to-make-sorted](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0981-delete-columns-to-make-sorted) |
 | [1170-shortest-common-supersequence](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1170-shortest-common-supersequence) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1666-make-the-string-great](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1666-make-the-string-great) |
 | [1777-determine-if-two-strings-are-close](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1777-determine-if-two-strings-are-close) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -709,6 +711,7 @@
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0567-permutation-in-string) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3483-alternating-groups-ii](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3483-alternating-groups-ii) |
