@@ -264,6 +264,7 @@
 | [3483-alternating-groups-ii](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3483-alternating-groups-ii) |
 | [3533-snake-in-matrix](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3533-snake-in-matrix) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3643-zero-array-transformation-ii](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3643-zero-array-transformation-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -571,6 +572,7 @@
 | [2699-count-the-number-of-fair-pairs](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2716-prime-subtraction-operation) |
 | [3427-special-array-ii](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3427-special-array-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3643-zero-array-transformation-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -668,6 +670,7 @@
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2145-grid-game](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2145-grid-game) |
 | [3427-special-array-ii](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3427-special-array-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3643-zero-array-transformation-ii) |
 ## Number Theory
 |  |
 | ------- |
