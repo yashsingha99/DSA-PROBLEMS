@@ -264,6 +264,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3227-find-missing-and-repeated-values) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3427-special-array-ii](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3427-special-array-ii) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3483-alternating-groups-ii) |
 | [3533-snake-in-matrix](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3533-snake-in-matrix) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -662,6 +663,7 @@
 | [2308-divide-array-into-equal-pairs](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3394-minimum-array-end](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3394-minimum-array-end) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## String Matching
 |  |
 | ------- |
@@ -678,6 +680,7 @@
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2145-grid-game](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2145-grid-game) |
 | [3427-special-array-ii](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3427-special-array-ii) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3643-zero-array-transformation-ii) |
 ## Number Theory
 |  |
@@ -728,12 +731,14 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Queue
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0387-first-unique-character-in-a-string) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Quickselect
 |  |
 | ------- |
