@@ -262,6 +262,7 @@
 | [2716-prime-subtraction-operation](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2716-prime-subtraction-operation) |
 | [2727-number-of-senior-citizens](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2755-extra-characters-in-a-string) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3227-find-missing-and-repeated-values) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3427-special-array-ii](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3427-special-array-ii) |
@@ -329,6 +330,7 @@
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2755-extra-characters-in-a-string](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2755-extra-characters-in-a-string) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3227-find-missing-and-repeated-values) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -739,6 +741,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
