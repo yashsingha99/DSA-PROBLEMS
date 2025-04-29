@@ -10,7 +10,7 @@ class Solution {
     }
 
     public String minWindow(String s, String t) {
-        int n = s.length(), m = t.length();
+        int n = s.length(), m = t.length(), l = -1, r = 0;
         int[] fq = new int[52];
         for (char ch : t.toCharArray()) {
             if (ch >= 'A' && ch <= 'Z') {
@@ -20,7 +20,7 @@ class Solution {
             }
         }
         int i = 0, j = 0;
-        StringBuilder minString = new StringBuilder();
+        String minString = "";
         int min = Integer.MAX_VALUE;
         int[] arr = new int[52];
         while (j < n) {
@@ -30,12 +30,11 @@ class Solution {
             } else {
                 arr[ch - 'a' + 26]++;
             }
-        //    System.out.println(check(fq, arr));
-
             while (i <= j && check(fq, arr)) {
                 int window = (j - i + 1);
                 if (min > window) {
-                    minString = new StringBuilder(s.substring(i, j + 1));
+                    l = i;
+                    r = j;
                     min = window;
                 }
                 char ch2 = s.charAt(i);
@@ -49,6 +48,6 @@ class Solution {
             j++;
         }
 
-        return minString.toString();
+        return l == -1 ? "" : s.substring(l, r + 1);
     }
 }
