@@ -303,6 +303,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0012-integer-to-roman) |
+| [0076-minimum-window-substring](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0076-minimum-window-substring) |
 | [0264-ugly-number-ii](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0264-ugly-number-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0567-permutation-in-string) |
@@ -341,6 +342,7 @@
 | [0012-integer-to-roman](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0012-integer-to-roman) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0038-count-and-say) |
+| [0076-minimum-window-substring](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0076-minimum-window-substring) |
 | [0093-restore-ip-addresses](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0093-restore-ip-addresses) |
 | [0179-largest-number](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0214-shortest-palindrome) |
@@ -737,6 +739,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0076-minimum-window-substring) |
 | [0567-permutation-in-string](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0567-permutation-in-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
