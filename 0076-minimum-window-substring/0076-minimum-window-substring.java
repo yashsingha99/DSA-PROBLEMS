@@ -1,5 +1,5 @@
 class Solution {
-    static boolean check(int[] fq, int[] arr) {
+    boolean check(int[] fq, int[] arr) {
         for (int i = 0; i < 52; i++) {
             if (fq[i] == 0)
                 continue;
@@ -8,11 +8,8 @@ class Solution {
         }
         return true;
     }
-    static{
-        for(int i = 0; i < 500; i++) minWindow("", "a");
-    }
 
-    public static String minWindow(String s, String t) {
+    public String minWindow(String s, String t) {
         int n = s.length(), m = t.length();
         int[] fq = new int[52];
         for (char ch : t.toCharArray()) {
@@ -23,7 +20,7 @@ class Solution {
             }
         }
         int i = 0, j = 0;
-        String minString = "";
+        StringBuilder minString = new StringBuilder();
         int min = Integer.MAX_VALUE;
         int[] arr = new int[52];
         while (j < n) {
@@ -38,7 +35,7 @@ class Solution {
             while (i <= j && check(fq, arr)) {
                 int window = (j - i + 1);
                 if (min > window) {
-                    minString = s.substring(i, j + 1);
+                    minString = new StringBuilder(s.substring(i, j + 1));
                     min = window;
                 }
                 char ch2 = s.charAt(i);
@@ -48,12 +45,10 @@ class Solution {
                     arr[ch2 - 'a' + 26]--;
                 }
                 i++;
-
             }
-
             j++;
         }
 
-        return minString;
+        return minString.toString();
     }
 }
