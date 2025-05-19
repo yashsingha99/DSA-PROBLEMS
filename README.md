@@ -266,6 +266,7 @@
 | [2856-count-complete-subarrays-in-an-array](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3227-find-missing-and-repeated-values) |
+| [3321-type-of-triangle](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3321-type-of-triangle) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3427-special-array-ii](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3427-special-array-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -490,6 +491,7 @@
 | [2699-count-the-number-of-fair-pairs](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2887-sort-vowels-in-a-string](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2887-sort-vowels-in-a-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3321-type-of-triangle](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3321-type-of-triangle) |
 ## Matrix
 |  |
 | ------- |
@@ -653,6 +655,7 @@
 | [2716-prime-subtraction-operation](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3227-find-missing-and-repeated-values](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3227-find-missing-and-repeated-values) |
+| [3321-type-of-triangle](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3321-type-of-triangle) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Stack
 |  |
