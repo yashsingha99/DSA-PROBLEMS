@@ -274,6 +274,7 @@
 | [3533-snake-in-matrix](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3533-snake-in-matrix) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3643-zero-array-transformation-ii](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3643-zero-array-transformation-ii) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Linked List
 |  |
 | ------- |
