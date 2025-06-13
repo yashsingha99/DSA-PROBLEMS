@@ -374,6 +374,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0981-delete-columns-to-make-sorted](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0981-delete-columns-to-make-sorted) |
 | [1170-shortest-common-supersequence](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1170-shortest-common-supersequence) |
+| [1250-longest-common-subsequence](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1250-longest-common-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1666-make-the-string-great](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1666-make-the-string-great) |
 | [1777-determine-if-two-strings-are-close](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1777-determine-if-two-strings-are-close) |
@@ -431,6 +432,7 @@
 | [0650-2-keys-keyboard](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0650-2-keys-keyboard) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1170-shortest-common-supersequence) |
+| [1250-longest-common-subsequence](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1250-longest-common-subsequence) |
 | [1511-count-number-of-teams](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1511-count-number-of-teams) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
