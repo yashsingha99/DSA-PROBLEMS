@@ -239,6 +239,7 @@
 | [2035-count-sub-islands](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2035-count-sub-islands) |
 | [2089-maximum-matrix-sum](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2089-maximum-matrix-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2145-grid-game](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2145-grid-game) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2164-two-best-non-overlapping-events) |
