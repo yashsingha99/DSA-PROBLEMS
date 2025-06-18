@@ -268,6 +268,7 @@
 | [2856-count-complete-subarrays-in-an-array](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3227-find-missing-and-repeated-values) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3321-type-of-triangle) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3427-special-array-ii](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3427-special-array-ii) |
@@ -477,6 +478,7 @@
 | [2716-prime-subtraction-operation](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2716-prime-subtraction-operation) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
@@ -501,6 +503,7 @@
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2887-sort-vowels-in-a-string](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2887-sort-vowels-in-a-string) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3321-type-of-triangle](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3321-type-of-triangle) |
 ## Matrix
