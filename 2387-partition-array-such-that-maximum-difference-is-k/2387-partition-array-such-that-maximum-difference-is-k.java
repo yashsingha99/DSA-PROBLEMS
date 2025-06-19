@@ -1,13 +1,20 @@
 class Solution {
     public int partitionArray(int[] nums, int k) {
-        Arrays.sort(nums);
-        int n = nums.length, cnt = 1, l = 0;
-        for(int i = 1; i < n; i++){
-            if(nums[i] - nums[l] > k){
-                cnt++;
-                l = i;
+        int maxE = Arrays.stream(nums).max().getAsInt();
+        int[] fq = new int[maxE + 1];
+
+        for(int i : nums){
+            fq[i]++;
+        }
+        int max = -1, min = maxE, ans = 0;
+        for(int i = 0; i <= maxE; i++){
+            if(fq[i] == 0) continue;
+            max = Math.max(max, i);
+            min = Math.min(min, i);
+            if(max - min > k) {
+                ans++; max = i; min = i;
             }
-        } 
-         return cnt;
+        }
+        return ans + 1;
     }
 }
