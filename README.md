@@ -249,6 +249,7 @@
 | [2334-number-of-flowers-in-full-bloom](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2360-substring-with-largest-variance](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2360-substring-with-largest-variance) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2411-spiral-matrix-iv](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2411-spiral-matrix-iv) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -473,6 +474,7 @@
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2089-maximum-matrix-sum](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2716-prime-subtraction-operation](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2716-prime-subtraction-operation) |
@@ -498,6 +500,7 @@
 | [2164-two-best-non-overlapping-events](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2164-two-best-non-overlapping-events) |
 | [2215-finding-3-digit-even-numbers](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2215-finding-3-digit-even-numbers) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2334-number-of-flowers-in-full-bloom) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
