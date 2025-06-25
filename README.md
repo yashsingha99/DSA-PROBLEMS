@@ -205,6 +205,7 @@
 | [0189-rotate-array](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0215-kth-largest-element-in-an-array) |
+| [0238-product-of-array-except-self](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0238-product-of-array-except-self) |
 | [0472-concatenated-words](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0472-concatenated-words) |
 | [0494-target-sum](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0494-target-sum) |
 | [0539-minimum-time-difference](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0539-minimum-time-difference) |
@@ -718,6 +719,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0238-product-of-array-except-self) |
 | [1435-xor-queries-of-a-subarray](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1435-xor-queries-of-a-subarray) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
