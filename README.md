@@ -565,6 +565,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0101-symmetric-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -581,6 +582,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0101-symmetric-tree) |
 | [0200-number-of-islands](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0200-number-of-islands) |
 | [0999-regions-cut-by-slashes](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0999-regions-cut-by-slashes) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -603,6 +605,7 @@
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -647,6 +650,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
