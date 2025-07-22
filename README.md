@@ -207,6 +207,7 @@
 | [0200-number-of-islands](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0238-product-of-array-except-self) |
+| [0403-frog-jump](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0403-frog-jump) |
 | [0472-concatenated-words](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0472-concatenated-words) |
 | [0494-target-sum](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0494-target-sum) |
 | [0539-minimum-time-difference](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0539-minimum-time-difference) |
@@ -443,6 +444,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0264-ugly-number-ii) |
 | [0392-is-subsequence](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0392-is-subsequence) |
+| [0403-frog-jump](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0403-frog-jump) |
 | [0472-concatenated-words](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0472-concatenated-words) |
 | [0494-target-sum](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0494-target-sum) |
 | [0650-2-keys-keyboard](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0650-2-keys-keyboard) |
