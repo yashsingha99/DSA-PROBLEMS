@@ -290,6 +290,7 @@
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0206-reverse-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1484-linked-list-in-binary-tree) |
@@ -507,6 +508,7 @@
 | [0015-3sum](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0295-find-median-from-data-stream) |
@@ -555,6 +557,7 @@
 | [0075-sort-colors](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0189-rotate-array) |
 | [0295-find-median-from-data-stream](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0295-find-median-from-data-stream) |
@@ -776,6 +779,7 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Recursion
@@ -838,4 +842,8 @@
 |  |
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2215-finding-3-digit-even-numbers) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
