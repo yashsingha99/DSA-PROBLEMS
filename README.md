@@ -290,6 +290,7 @@
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0142-linked-list-cycle-ii) |
+| [0206-reverse-linked-list](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0206-reverse-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1484-linked-list-in-binary-tree) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -780,6 +781,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0206-reverse-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0241-different-ways-to-add-parentheses) |
 ## Memoization
 |  |
