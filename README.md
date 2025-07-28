@@ -321,6 +321,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0012-integer-to-roman) |
 | [0076-minimum-window-substring](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0076-minimum-window-substring) |
 | [0142-linked-list-cycle-ii](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0142-linked-list-cycle-ii) |
@@ -363,6 +364,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0012-integer-to-roman) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0038-count-and-say) |
@@ -811,6 +813,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0076-minimum-window-substring) |
 | [0567-permutation-in-string](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0567-permutation-in-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1460-number-of-substrings-containing-all-three-characters) |
