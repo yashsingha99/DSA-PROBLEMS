@@ -1,26 +1,25 @@
 class Solution {
-    int[][] dp ;
-    StringBuilder ans = new StringBuilder();
-    int solve(String text1, String text2, int i, int j){
-        if(i <= 0 || j <= 0) return 0;
-        if(dp[i][j] != -1) return dp[i][j];
-        
-
-        if(text1.charAt(i - 1) == text2.charAt(j - 1)){
-            return dp[i][j] = 1 + solve(text1, text2, i - 1, j - 1);
-        }
-        return dp[i][j] = Math.max(solve(text1, text2, i, j - 1), solve(text1, text2, i - 1, j));
-    }
-    public int longestCommonSubsequence(String text1, String text2) {
-        int n = text1.length(), m = text2.length();
-        dp = new int[n + 1][m + 1];
-        for(int A[] : dp)  Arrays.fill(A, -1);
-        int res = solve(text1, text2, n, m);
-        // int i = 0, j = 0;
-        // while(i < n || j < m){
-
+    public int longestCommonSubsequence(String s1, String s2) {
+        int n = s1.length(), m = s2.length();
+        int[][] dp = new int[n + 1][m + 1];
+        // for(int i = 0; i <= n; i++){
+        //     for(int j = 0; j <= m; j++){
+        //         dp[i][j] = "";
+        //     }
         // }
-        return res;
 
+        for(int i = 1; i <= n; i++){
+            for(int j = 1; j <= m; j++){
+                if(s1.charAt(i - 1) == s2.charAt(j - 1)){
+                    dp[i][j] = 1 + dp[i - 1][j - 1] ;
+                    // + s1.charAt(i - 1);
+                } else {
+                    dp[i][j] = Math.max(dp[i - 1][j], dp[i][j - 1]);
+                    //  ? dp[i - 1][j] : dp[i][j - 1]; 
+                }
+            }
+        }
+        // System.out.print(dp[n][m]);
+        return dp[n][m];
     }
 }
