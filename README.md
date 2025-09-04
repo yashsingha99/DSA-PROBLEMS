@@ -718,6 +718,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3321-type-of-triangle) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3830-find-closest-person](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3830-find-closest-person) |
 ## Stack
 |  |
 | ------- |
