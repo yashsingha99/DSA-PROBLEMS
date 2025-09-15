@@ -337,6 +337,7 @@
 | [0999-regions-cut-by-slashes](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0999-regions-cut-by-slashes) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1256-rank-transform-of-an-array) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1500-count-largest-group) |
@@ -395,6 +396,7 @@
 | [0981-delete-columns-to-make-sorted](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0981-delete-columns-to-make-sorted) |
 | [1170-shortest-common-supersequence](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1250-longest-common-subsequence) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1666-make-the-string-great](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1666-make-the-string-great) |
 | [1777-determine-if-two-strings-are-close](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1777-determine-if-two-strings-are-close) |
