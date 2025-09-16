@@ -451,6 +451,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0241-different-ways-to-add-parentheses](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0279-perfect-squares) |
 | [0392-is-subsequence](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0392-is-subsequence) |
 | [0403-frog-jump](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0403-frog-jump) |
 | [0472-concatenated-words](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0472-concatenated-words) |
@@ -604,6 +605,7 @@
 | ------- |
 | [0101-symmetric-tree](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0101-symmetric-tree) |
 | [0200-number-of-islands](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0200-number-of-islands) |
+| [0279-perfect-squares](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0279-perfect-squares) |
 | [0999-regions-cut-by-slashes](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0999-regions-cut-by-slashes) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1484-linked-list-in-binary-tree) |
@@ -702,6 +704,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0241-different-ways-to-add-parentheses) |
 | [0263-ugly-number](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0279-perfect-squares) |
 | [0539-minimum-time-difference](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0650-2-keys-keyboard) |
