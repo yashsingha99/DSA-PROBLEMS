@@ -224,6 +224,7 @@
 | [0999-regions-cut-by-slashes](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0999-regions-cut-by-slashes) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1256-rank-transform-of-an-array) |
+| [1266-minimum-time-visiting-all-points](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1266-minimum-time-visiting-all-points) |
 | [1293-three-consecutive-odds](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1293-three-consecutive-odds) |
 | [1375-find-palindrome-with-fixed-length](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1375-find-palindrome-with-fixed-length) |
 | [1435-xor-queries-of-a-subarray](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1435-xor-queries-of-a-subarray) |
@@ -709,6 +710,7 @@
 | [0592-fraction-addition-and-subtraction](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0650-2-keys-keyboard) |
 | [0935-orderly-queue](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0935-orderly-queue) |
+| [1266-minimum-time-visiting-all-points](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1266-minimum-time-visiting-all-points) |
 | [1375-find-palindrome-with-fixed-length](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1375-find-palindrome-with-fixed-length) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1500-count-largest-group](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1500-count-largest-group) |
@@ -856,4 +858,8 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0148-sort-list) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
