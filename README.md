@@ -291,6 +291,7 @@
 | [3643-zero-array-transformation-ii](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3643-zero-array-transformation-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3643-flip-square-submatrix-vertically) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 ## Linked List
 |  |
 | ------- |
@@ -368,6 +369,7 @@
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 ## String
 |  |
 | ------- |
@@ -492,6 +494,7 @@
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 ## Greedy
 |  |
 | ------- |
@@ -513,6 +516,7 @@
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 ## Sorting
 |  |
 | ------- |
