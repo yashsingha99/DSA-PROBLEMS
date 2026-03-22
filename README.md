@@ -243,6 +243,7 @@
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1876-map-of-highest-peak) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1923-sentence-similarity-iii](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1923-sentence-similarity-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2035-count-sub-islands) |
@@ -555,6 +556,7 @@
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1876-map-of-highest-peak](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1876-map-of-highest-peak) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2035-count-sub-islands](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2035-count-sub-islands) |
 | [2089-maximum-matrix-sum](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2089-maximum-matrix-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2132-convert-1d-array-into-2d-array) |
