@@ -228,6 +228,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1256-rank-transform-of-an-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1266-minimum-time-visiting-all-points) |
 | [1293-three-consecutive-odds](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1293-three-consecutive-odds) |
+| [1306-jump-game-iii](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1306-jump-game-iii) |
 | [1375-find-palindrome-with-fixed-length](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1375-find-palindrome-with-fixed-length) |
 | [1435-xor-queries-of-a-subarray](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1435-xor-queries-of-a-subarray) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -612,6 +613,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0543-diameter-of-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0999-regions-cut-by-slashes](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0999-regions-cut-by-slashes) |
+| [1306-jump-game-iii](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1306-jump-game-iii) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -624,6 +626,7 @@
 | [0200-number-of-islands](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0200-number-of-islands) |
 | [0279-perfect-squares](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0279-perfect-squares) |
 | [0999-regions-cut-by-slashes](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0999-regions-cut-by-slashes) |
+| [1306-jump-game-iii](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1306-jump-game-iii) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
