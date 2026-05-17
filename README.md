@@ -300,6 +300,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0234-palindrome-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1484-linked-list-in-binary-tree) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -581,6 +582,7 @@
 | [0148-sort-list](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0234-palindrome-linked-list) |
 | [0295-find-median-from-data-stream](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0443-string-compression) |
@@ -750,6 +752,7 @@
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0145-binary-tree-postorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0316-remove-duplicate-letters) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0874-backspace-string-compare](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0874-backspace-string-compare) |
@@ -816,6 +819,7 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0241-different-ways-to-add-parentheses) |
 ## Memoization
 |  |
