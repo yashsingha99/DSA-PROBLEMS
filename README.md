@@ -885,4 +885,8 @@
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/1266-minimum-time-visiting-all-points) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/yashsingha99/DSA-PROBLEMS/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
